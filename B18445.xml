@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Call to Scotland for threatning famine, or, A discourse</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18445</idno><idno type="EEBO-CITATION">8096088</idno>
+  <idno type="VID">204205</idno>
+  <idno type="EEBO-PROQUEST">2264206730</idno>
+  
+            <idno type="STC">Wing C298</idno>
+            <idno type="OCLC">08096088</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18445)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204205)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1224:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Call to Scotland for threatning famine, or, A discourse</title>
+               </titleStmt>
+               <extent>7 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Printed in the year 1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Shewing  I. that not only Scotland, but the whole isle of Britain are in as dangerous a state, and as liable (by reason of the grossness of their sins) to the dreadful judgements of God, as ever the old world, Sodom, and Gommorah, or any other nation were and II. that unless we timeously repent, we can expect nothing but to be cut off from being any more a people, like the obstinat stiffnecked Jews, and scattered as vagabounds thorew the earth.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">God --  Wrath.</term>
+               <term type="topical_term">Judgment of God.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204205:1"/>
+            <pb facs="tcp:204205:2"/>
+            <pb facs="tcp:204205:2"/>
+            <p>A <hi>CALL</hi> to <hi>SCOTLAND</hi> For Threatning FAMINE Or a DISCOURSE <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shewing
+<list>
+                  <item>1. That not only SCOTLAND, but the whole Isle of BRITAIN, are in as dangerous a state, and as liable, (by reason of the grossness of their Sins) to th<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> dreadful judgements of GOD, as ever the <hi>Old World, Sodom,</hi> and <hi>Gommorah,</hi> or any other Nation were.</item>
+                  <item>And II. that unless we timeously Repent, we can expect nothing but to be cut off from being any more a People, like the Obsti<g ref="char:EOLhyphen"/>nat Stiffnecked <hi>Jevvs,</hi> and scattered as V<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gabounds thorow the Earth.</item>
+               </list>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Lamentations. 3.40</hi>
+               </bibl> Let us search and try our wayes, and turn again to the Lord.</q>
+            <p>EDINBURGH, Printed <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Year 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204205:3"/>
+            <pb n="3" facs="tcp:204205:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>2. Samuel 24 Chap.</hi> and <hi>13 V.</hi>
+                  </bibl>
+                  <p>So <hi>Gad</hi> came unto <hi>David,</hi> and told him, and said unto him, shall seven Years of Famine come unto thee in the Land? Or wilt thou flee three Months before thine Ene<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ies while they pursue thee? Or that there be three days Pestilence in thy Land? Now advise. and see what Answer I shall return unto him that sent me.</p>
+               </q>
+            </epigraph>
+            <p>
+               <hi>FAmine, Sword,</hi> and <hi>Pestilence,</hi> are the three last I and dreadful Judgments that the All-wise Gover<g ref="char:EOLhyphen"/>nour of the World, uses to inflict upon a Stubborn and stiffnecked People; especially such as have made a Trade of sinning against the clearest light of eter<g ref="char:EOLhyphen"/>nal Truth, and greatest Manifestations of Divine Mercy And before we come to the words, we are to observe; <hi>First,</hi> That we cannot find in the course of Providence that ever the power of God did exert it self in such severe Acts of Justice, till a peeple (by their obstinacy) had proved that all the gentle proceedings of Love were too faint Means for their Recovery. <hi>Secondly,</hi> We are to observe, that a Nation highly obliged by signal Favours from above, was never permitted to run on in their course of Defection, without
+<pb n="4" facs="tcp:204205:4"/> some severe scourge sent from the avenging hand of Heaven so reduce them to their right Wits again: This might be examplified by infinite Passages of Sacred and profane Hi<g ref="char:EOLhyphen"/>story, had we either time to receite them, or ye patience to hear them. But why should we multiply words in a matter so plain to every Mans experience? Was not this the fate of the Old World, who, for their Debauchries and Ido<g ref="char:EOLhyphen"/>latrys (contrary to the sound Instructions, committed to them by their pious and long liv'd Ancestours, in whose Memory the Cre<g ref="char:EOLhyphen"/>ation of the World and mighty things of God were yet fresh by in<g ref="char:EOLhyphen"/>fallible Tradition from Father to Son) did perish, eight persons ex<g ref="char:EOLhyphen"/>cepted, by an universal deluge of Water, to the terror of Succeed<g ref="char:EOLhyphen"/>ing Age; from following their Foot-steps? Was not this the just consequence of the nottorious Villany of <hi>Sodom</hi> and <hi>Gommorah,</hi> and the Plain; all a round, in being burnt alive with Fire from Heaven to the horrour of all, who either hear the Story, or see the frightfull ruines of once so pleasant and delightfull dwellings. what Snares? What Calamities did fall upon the <hi>Jevvs,</hi> God's peculiar People and chosen Flock, for their frequent Rebellious against Heaven, and contempt of the Priviledges bestow'd on them above all Nations of the spacious World, and now at last after their In<g ref="char:EOLhyphen"/>credulity and hardness of Heart, how do we see them scattered thorow all Nations, as the mockrie of Mankind and off-scourings of the Earth. And if this be done to the Nation beloved of God, to the Children of <hi>Abraham, Isaac,</hi> and <hi>Jacob,</hi> with whom their was an eternal Covenant made, that their Children should be cha<g ref="char:EOLhyphen"/>stised with stripes, but his loving kindness should never depart from them; how can any other people expect to evade his just Venge<g ref="char:EOLhyphen"/>ance, who declares that he is a consuming Fire to the workers of Iniquity. <hi>Thirdly,</hi> We are to observe from the words, that after a peoples Cup is full, the Lord powers out his wrath upon causes that in appearance are, but smal; the people of <hi>Israel</hi> here had been blessed from the foundation of their State with very singular Mercys, and lately had their Goverment committed to a Man after God's own Heart, ver they did no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> behave themselves so before God us became <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> people upon whom such uncommon blessings were bestowed; for in the beginning of this Chapter, it is said, That again the anger of the Lord was kindled against <hi>Israel,</hi> and he moved <hi>Dav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> against them, to say, go number <hi>Israel</hi> and <hi>Judah.</hi> Its tr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e we cannot enter upon the disenssing of
+<pb facs="tcp:204205:4"/>
+               <pb facs="tcp:204205:5"/>
+               <pb n="5" facs="tcp:204205:5"/> all the Difficulties that might be raised from the words, but its evident from the practice of the <hi>Jews</hi> throw all Ages, that they were a people very insensible of their Mercys, &amp; that now when God had given them extraordi<g ref="char:EOLhyphen"/>nary favours, they made no proportional amends, He designs to send a lash among them, to bring <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem to a better understanding. So that this truth is plain <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat no people to whom God has displayed the bright beams of his Truth, can escape punishment if they conti<g ref="char:EOLhyphen"/>nue in a course of Sin, and much less if they grow worse and worse under theit Mercies. As we may see (without more proofs) from the last words of <hi>Joshua, Jos.</hi> 23, <hi>Ch.</hi> 15 and 16 <q>There<g ref="char:EOLhyphen"/>fore it shall come to pass, that as all good things are come upon you which the Lord your God promised you: So shall the Lord bring upon you all evil things, untill he hath destroyed you off this good Land which the Lord your God hath given you, when ye have transgressed the Covenant of the Lord your God, which He hath commanded you, and have gone and served other gods, and bowed your selves unto them: Then shall the anger of the Lord be kindled against you, and ye shall perish quickly from off the good land which he hath given unto you.</q> Finally, We are to observe that all the mighty Empires of the World, waxing bold in iniquity, according to the enlargement of their Conquests, have been crush'd and brought to nothing by Almighty power; which are clear Arguments for the proving of our assertion, But that we may come to an Application of this manifest Truth, to the circumstances of great <hi>Britain</hi> and of <hi>Scotland</hi> in particular, we must consider: <hi>First,</hi> What the troubles are we groan under, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>Secondly,</hi> What are the procuring Causes thereof, and what we are to fear, if we continue in the present stupi<g ref="char:EOLhyphen"/>dity of Heart. And <hi>Third y,</hi> What we are to do in way of Duty to escape the Judgements hanging above our head. As to the first of these, we are to consider three things. <hi>First,</hi> That tho God has not sent the Sword among us, yet it is not long since our lives lay at the stake and were ready to be sacrificed to the bloody thirst of cruel men so that with <hi>Israel</hi> we may say <hi>Ps.</hi> 124. and 2. v. <q>If it had not; been the Lord who was on our side, when Men rose up a<g ref="char:EOLhyphen"/>gainst us, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y had swallowed us up quick when their wrath was kind<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed against us v. 7. But our Soul is escap'd as a Bird out of the snare of the Fowlers, The snare is broken and we are es<g ref="char:EOLhyphen"/>caped.</q>
+               <hi>Secondly,</hi> The pestilence has not been sent among us,
+<pb n="6" facs="tcp:204205:6"/> but that which is very near it, raging sicknesses have abounded to the cutting off of Thousands in the flower of their Age; what ma<g ref="char:EOLhyphen"/>lignant Fevers? what bloody Fluxes, what epidemical decayes and unacountable diseases have not for these few years by past vasted our Lands? So that families have gone to the grave together, and whole shires have been stupified at the vast mortality. <hi>Thirdly,</hi> Neither has Famine come to a height; yet for several Years we hav<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> been threatned with increaseing Dearth, that is likely to end in Famine, if the Lord put not a stop to it. And now <hi>I</hi> am certain all that hears this are sensible of what I say, what numbers of poo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people are starving in City and Countrey for want of food, and even they who have Families above their heads are notable to suc<g ref="char:EOLhyphen"/>cour them so small is the encouragement for labour, &amp; so far is the price of bread raised above the ordinary rate. What complaints hear we every where among all ranks of persons of the hardness of living, scarcity of Money, and want of trade: As to the <hi>Second</hi> point we must observe two things; <hi>First</hi> we are in the very same circumstances with those Nations which God in his justice has cutoff from the face of the Earth for their Enormities; for whereas many Churches about dare not serve God openly for fear of their cruel Oppressors, but are forced to betake themselves to Dens, Moun<g ref="char:EOLhyphen"/>tains and Desarts in the seasons of the night, and that not without the fear of their lives, and danger of their Estates, to hear the word of God; He has bestowed on us a more savourable day of providence <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n granting the plenty and purity of His Gospel by the established Law of the Kingdom. <hi>Secondly</hi> that whereas he has suffered others to fall under the severest persecutions that ever Christians under went, our Scourges hitherto, compared with theirs are but like the checks of a father in respect of severe chastisements. <hi>Third<g ref="char:EOLhyphen"/>ly.</hi> What has been our carriage under these dispensations, but that of a stiff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>necked generation that will not be warned of the wrath to come, What have we left unessayed that might provoke Gods just vengeance against us! forgetfulness of God! Unthankfulness! Neglect and Contempt of Ordinances! an universal Corruption of manners! lake of Charity and love towards one another! are but among the least of our Sins and this may serve for the causes of our miseries,</p>
+            <p>As to the third point, we are to consider, that tho hitherto God h<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> proceeded gently with us, yet he has let us see that His sword is drawn, and he will not sheath it if we continue in the present
+<pb facs="tcp:204205:6"/>
+               <pb facs="tcp:204205:7"/>
+               <pb n="7" facs="tcp:204205:7"/> course: for he is a God that will not clear the guilty, but we must ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect to receive the outmost strocks of these judgements whereof he has given us the preludes. As to the last point, what we are to do that we may evite these dreadful lashes of Almighty justice, we shall ob<g ref="char:EOLhyphen"/>s<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve these things: <hi>First,</hi> we must resolve to make sincere repentance of our sins in particular, of the sins of the Land, &amp; of the sins of our <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>thers, we must humble our selves in dust and ashes, &amp; say, <hi>We vvith <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r fathers have sinned,</hi> &amp;c. <hi>Secondly,</hi> we must lay our account to make a personal Covenant with God, to lead our lives according to the plat form of his Law, and to persevere in the Observance of his Ordinances. We must endeavour to do Justice to our Neighbour, &amp; <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive in mutual amity with all Men, and not carp and startle at the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ilings of some, but endeavour rather to reclaim them by a spirit of Meekness. <hi>Thirdly,</hi> we must no more place our Religion in particular factions of this or that Name, but rather follow the life <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> power of Godliness, searching our own Souls and interests with Christ, rather than running after doctrines of little concernment, and serve for no purpose, but to rent the Church of Christ into peices, considering that pure Religion, &amp; undefiled before God and the Father, is this, <hi>To visite the Fatherless and Wedovvs in their Af<g ref="char:EOLhyphen"/>fliction, &amp; to keep himself unspotted of the World.</hi> Which that the Lord may grant is our hearty Prayer and Wish, that so our Hearts may be turned unto him who is able to save, and that he may have the Glory, and we the Comfort, of our happy Repentance.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
